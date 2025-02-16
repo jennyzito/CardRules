@@ -1,19 +1,19 @@
 { "text_cards":
   [
     {
-      "caption": "NERFED",
-      "description": "Choose a nerf from the deck. Place a token under each \\KI. Any piece that takes a nerfed piece gains the token.",
+      "caption": "ACE",
+      "description": "Two characters become better friends, what happened to cause this to occur?",
       "origin": "C",
       "genre": "\\diff",
-      "quote": "Why you no good, scruffy looking, nerf herder! ---George Lucas",
-      "symbol": "\\KI"
+      "quote": "",
+      "symbol": ""
     },
     {
-      "caption": "SPIDERMAN",
-      "description": "\\KI\\Move+: May also move to board edge in an \\Queen\\ direction.",
+      "caption": "TWO",
+      "description": "An unattended situation becomes problematic and scary.  What is it? How does it go awry?",
       "origin": "C",
       "genre": "+",
-      "quote": "Go web! Fly! Up, up, and away web! Shazaam! Go! Go! Go web go! Tally ho. ---Spider-Man",
+      "quote": "",
       "symbol": "\\KI"
     },
     {
