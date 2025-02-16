@@ -1,0 +1,175 @@
+//      “Situation Deck”:
+// Ace: Two characters become better friends, what happened to cause this to occur?
+// Two: An unattended situation becomes problematic and scary.  What is it? How does it go awry?
+// Three: A character has something they wish for, but it may be hard to obtain.  Describe what they wish for.
+// *Or* A character is given an unexpected opportunity, but there is some major roadblock to taking advantage of it. Describe how they approach this opportunity.
+// Four: A character is asked to make a choice, even though it goes against their own wishes or values. What effects does this have?
+// *Or* they decide not to make this choice, even though that goes against the wishes of a person that is important to them. What effects does this have?
+// Five: A character hears about an accident or bad event and has a personal reaction. What happened? What is their reaction?
+// *Or* they hear about something special/wonderful that has happened to someone else.  What happened?  How does it affect them?
+// Six: Someone new arrives.  Who? Why have they come? Are they in distress?
+// *Or* Someone who leaves the community? Who? What are they looking for?
+// Seven: A charismatic youngster convinces many to help them with an elaborate scheme. What is it? Who joins their endeavors?
+// Eight: Two people or a group of people are thrown in together to achieve a goal. What is it? Are they able to work well together?  
+// Nine: A headstrong character tries to convince the community to change their current path. What consequences does this have? Or how are they prevented from doing this?
+// Ten: A contingent within the community demands to be heard. Who are they? What are they asking for?
+// *or* A contingent within the community have acted on their frustrations. What did they damage, and why did they damage it? Is it permanent?
+// Jack: Something happens that should be taken as a warning. What is it?
+// *or* something feels good and different. What is it?
+// Queen: Describe a group at the edge of a community?  Are they currently interacting with the main community now? If so, explain how.
+// King: What group has the highest status in your community? What must people do to gain inclusion in this group?
+// *or* Describe the family of one of the characters. How do they get along with each other? How do their dynamics affect the character?
+{ "text_cards":
+  [
+    {
+      "caption": "ACE",
+      "description": "Two characters become better friends, what happened to cause this to occur?",
+      "origin": "C",
+      "genre": "\\diff",
+      "quote": "hi mom",
+      "symbol": "\\KI"
+    },
+    {
+      "caption": "TWO",
+      "description": "An unattended situation becomes problematic and scary.  What is it? How does it go awry?",
+      "origin": "C",
+      "genre": "+",
+      "quote": "hi dad",
+      "symbol": "\\KI"
+    },
+ //    {
+//       "caption": "THREE",
+//       "description": "A character has something they wish for, but it may be hard to obtain.  Describe what they wish for.
+// *Or* A character is given an unexpected opportunity, but there is some major roadblock to taking advantage of it. Describe how they approach this opportunity.",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "FOUR",
+//       "description": "A character is asked to make a choice, even though it goes against their own wishes or values. What effects does this have?
+// *Or* they decide not to make this choice, even though that goes against the wishes of a person that is important to them. What effects does this have?",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "FIVE",
+//       "description": "A character hears about an accident or bad event and has a personal reaction. What happened? What is their reaction?
+// *Or* they hear about something special/wonderful that has happened to someone else.  What happened?  How does it affect them?",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "SIX",
+//       "description": "Someone new arrives.  Who? Why have they come? Are they in distress? *Or* Someone who leaves the community? Who? What are they looking for?",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "SEVEN",
+//       "description": "A charismatic youngster convinces many to help them with an elaborate scheme. What is it? Who joins their endeavors?",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "EIGHT",
+//       "description": "Two people or a group of people are thrown in together to achieve a goal. What is it? Are they able to work well together?  ",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "NINE",
+//       "description": "A headstrong character tries to convince the community to change their current path. What consequences does this have? Or how are they prevented from doing this?",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "TEN",
+//       "description": "A contingent within the community demands to be heard. Who are they? What are they asking for?
+// *or* A contingent within the community have acted on their frustrations. What did they damage, and why did they damage it? Is it permanent?",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "JACK",
+//       "description": "Something happens that should be taken as a warning. What is it? *or* something feels good and different. What is it?",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "QUEEN",
+//       "description": "Describe a group at the edge of a community?  Are they currently interacting with the main community now? If so, explain how.",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "KING",
+//       "description": "What group has the highest status in your community? What must people do to gain inclusion in this group?
+// *or* Describe the family of one of the characters. How do they get along with each other? How do their dynamics affect the character?
+// ",
+//       "origin": "C",
+//       "genre": "+",
+//       "quote": "",
+//       "symbol": "\\KI"
+//     },
+//     {
+//       "caption": "10x8 BOARD",
+//       "description": "Add an additional rank on the top and bottom.",
+//       "origin": "C",
+//       "genre": "T",
+//       "quote": "\\tiny He who joyfully marches to music in rank and file has already earned my contempt. He has been given a large brain by mistake, since for him the spinal cord would suffice. ---Albert Einstein",
+//       "symbol": "\\inlinegraphics{10x8}"
+//     },
+//     {
+//       "caption": "FLOOR IS LAVA",
+//       "description": "Pieces ending their turn on the four central squares die. Pieces may move over lava.",
+//       "origin": "C",
+//       "genre": "T",
+//       "quote": "\\tiny Zeal is a volcano, the peak of which the grass of indecisiveness does not grow. ---Khalil Gibran",
+//       "symbol": "\\inlinegraphics{FloorIsLava}"
+//     },
+//     {
+//       "caption": "CHANCELLOR",
+//       "description": "Queens move and take like Rook+Knight. Fairy chess Chancellor.",
+//       "origin": "F",
+//       "genre": "\\diff",
+//       "quote": "When I'm stirring a saucepan, I don't say to myself, 'Now the chancellor is stirring a saucepan'. ---Angela Merkel",
+//       "symbol": "\\Queen"
+//     },
+    {
+      "caption": "META RULES 2",
+      "description": "\\tiny\n\\begin{enumerate}[wide=0pt]\n\\item 1=NBRQ, 2=BNRQ, -1=RNBQ.\\item Action=Move, Attack or Drop\\item Retreat=Move away from an adjacent piece and capture\\item You may not make a move that undoes a move made by the opponent.\\item No piece may act twice in a turn.\\end{enumerate}\n",
+      "origin": "C",
+      "quote": "",
+      "symbol": "\\Huge\\ding{72}\\ding{72}\\ding{72}"
+    },
+    {
+      "caption": "META RULES",
+      "description": "\\tiny\n\\begin{enumerate}[wide=0pt]\n\\item A piece may take at most one action per turn.\n\\item A piece acting like a pawn may always use en passant to capture another piece acting like a pawn.\n\\item A king may only castle when moving as a canonical king.\n\\item Non-king pieces may never castle.\n\\item Only the first + is applied.\n\\item Properties gained on a board are lost when a piece is removed from the board.\n\\PM[x,y] means all 8 possible variations of changing signs and position.\\end{enumerate}\n",
+      "origin": "C",
+      "quote": "",
+      "symbol": "\\Huge\\ding{72}\\ding{72}\\ding{72}"
+    }
+  ],
+  "graphic_cards":[
+  ]
+}

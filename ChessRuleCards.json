@@ -6,64 +6,56 @@
       "origin": "C",
       "genre": "\\diff",
       "quote": "",
-      "symbol": ""
+      "symbol": "\\KI"
     },
     {
       "caption": "TWO",
-      "description": "An unattended situation becomes problematic and scary.  What is it? How does it go awry?",
+      "description": "An unattended situation becomes problematic and scary.  What is it? How does it go awry",
+      "origin": "C",
+      "genre": "+",
+      "quote": "",
+      "symbol": "\\KI"
+    },
+      {
+      "caption": "THREE",
+      "description": "\\small A character has something they wish for, but it may be hard to obtain. Describe what they wish for.OR A character is given an unexpected opportunity, but there is some major roadblock to taking advantage of it. Describe how they approach this opportunity",
       "origin": "C",
       "genre": "+",
       "quote": "",
       "symbol": "\\KI"
     },
     {
-      "caption": "ELDER WAND",
-      "description": "\\small Place a token under \\KI\\ that grants that piece the corresponding buff. Any capturing piece gains the tokened buff.",
+      "caption": "FOUR",
+      "description": "\\small A character is asked to make a choice, even though it goes against their own wishes or values. What effects does this have? OR they decide not to make this choice, even though that goes against the wishes of a person that is important to them. What effects does this have?",
       "origin": "C",
       "genre": "+",
-      "quote": "If it's true, what you say, that he has the Elder Wand, I'm afraid you really don't stand a chance. ---Olivander",
+      "quote": "",
       "symbol": "\\KI"
     },
     {
-      "caption": "SIEGE",
-      "description": "\\small You may place or remove a token under any piece. This piece cannot move and attacks by removing pieces at squares it attacks. One siege token per army.",
+      "caption": "FIVE",
+      "description": "\\small A character hears about an accident or bad event and has a personal reaction. What happened? What is their reaction? OR they hear about something special or wonderful that has happened to someone else. What happened? How does it affect them?",
       "origin": "C",
       "genre": "+",
-      "quote": "The skillful leader subdues the enemy's troops without any fighting. ---Sun Tzu",
+      "quote": "",
       "symbol": "\\KI"
     },
     {
-      "caption": "CASTLES FOR EVERYONE",
-      "description": "\\small Any two \\NoKing\\ pieces may castle. Move piece one two squares in a rectilinear direction, and piece two on the other side",
+      "caption": "SIX",
+      "description": "\\small Someone new arrives. Who? Why have they come? Are they in distress? OR Someone who leaves the community? Who? What are they looking for?",
       "origin": "C",
       "genre": "+",
-      "quote": "I'm going to build castles from the rubble of your love. ---Freya Ridings",
-      "symbol": "\\NoKing"
+      "quote": "",
+      "symbol": "\\KI"
     },
     {
-      "caption": "DEVIL'S BARGAIN",
-      "description": "You may sacrifice three pawns on your board to remove any \\NoKing\\ piece.",
-      "origin": "C",
-      "genre": "T",
-      "quote": "The devil can cite Scripture for his purpose.  ---William Shakespeare",
-      "symbol": "\\Pawn\\hspace{-0.3em}\\Pawn\\hspace{-0.3em}\\Pawn"
-    },
-    {
-      "caption": "TWO FACED",
-      "description": "Rooks may invert after it acts. Inverted rooks act like a \\KI.",
+      "caption": "SEVEN",
+      "description": "A charismatic youngster convinces many to help them with an elaborate scheme. What is it? Who joins their endeavors?",
       "origin": "C",
       "genre": "+",
-      "quote": "God has given you one face, and you make yourself another. ---William Shakespeare",
-      "symbol": "{\\Rook}\\KI"
-    },
-    {
-      "caption": "MOAT",
-      "description": "Pieces ending their turn on central water squares die. Pieces may move over water.",
-      "origin": "C",
-      "genre": "T",
-      "quote": "\\tiny In business, I look for economic castles protected by unbreachable 'moats'. ---Warren Buffett",
-      "symbol": "\\inlinegraphics{Moat}"
-    },
+      "quote": "",
+      "symbol": "\\KI"
+    },  
     {
       "caption": "TOUCHDOWN",
       "description": "If your king is on the last rank at the end of your turn, you win.",
